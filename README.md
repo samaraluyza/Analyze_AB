@@ -1,5 +1,5 @@
 # Analyze_AB
-Analisando o resultado de testes A/B
+Analisando o resultado de testes A/B. Projeto para o nanodegree Fundamentos de Data Science II
 
 
 Link de recursos utilizados no projeto.
